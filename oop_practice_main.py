@@ -7,3 +7,4 @@ Created on Thu Aug 23 23:21:20 2018
 import os
 os.chdir("C:\\Users\\anhol\\OneDrive\\Documents\\GreatExpectations\\PythonLearning")
 from oop_practice import Soldier
+print( "I don't like you, see?")
