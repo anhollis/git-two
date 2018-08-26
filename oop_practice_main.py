@@ -8,4 +8,4 @@ import os
 os.chdir("C:\\Users\\anhol\\OneDrive\\Documents\\GreatExpectations\\PythonLearning")
 from oop_practice import Soldier
 print( "I don't like you, see?")
-x=3
+x=8
