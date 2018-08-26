@@ -8,8 +8,4 @@ import os
 os.chdir("C:\\Users\\anhol\\OneDrive\\Documents\\GreatExpectations\\PythonLearning")
 from oop_practice import Soldier
 print( "I don't like you, see?")
-<<<<<<< HEAD
-x=8
-=======
 x=3
->>>>>>> feature2
